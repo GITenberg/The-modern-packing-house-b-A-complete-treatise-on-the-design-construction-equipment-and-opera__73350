@@ -1,0 +1,35 @@
+_repo: The-modern-packing-house-b-A-complete-treatise-on-the-design-construction-equipment-and-opera__73350
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Davis, David I.
+    gutenberg_agent_id: '57041'
+    url: http://www.gutenberg.org/2009/agents/57041
+  - agent_name: Wilder, F. W. (Fred William)
+    alias: Wilder, Fred William
+    birthdate: 1853
+    deathdate: 1906
+    gutenberg_agent_id: '57013'
+    url: http://www.gutenberg.org/2009/agents/57013
+description: ''
+gutenberg_issued: '2024-04-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73350'
+language: en
+pgterms:marc904: https://archive.org/details/modernpackinghou00wilduoft
+pgterms:marc905: 20200918083739wilder
+pgterms:marc906: '1903'
+pgterms:marc907: US
+production_note: deaurider, Harry Lamé and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive)
+publication_note: '  $aChicago :$bNickerson & Collins, $c1903, copyright 1921.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The modern packing house : $b A complete treatise on the design, construction,
+  equipment and operation of meat packing houses ...'
+url: http://www.gutenberg.org/ebooks/73350
