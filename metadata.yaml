@@ -1,5 +1,8 @@
 _repo: The-modern-packing-house-b-A-complete-treatise-on-the-design-construction-equipment-and-opera__73350
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73350-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Davis, David I.
@@ -12,6 +15,8 @@ creator:
     gutenberg_agent_id: '57013'
     url: http://www.gutenberg.org/2009/agents/57013
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73350#The-modern-packing-house-b-A-complete-treatise-on-the-design-construction-equipment-and-opera_
 gutenberg_issued: '2024-04-07'
 gutenberg_type: Text
 identifiers:
